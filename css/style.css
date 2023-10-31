@@ -1,5 +1,17 @@
+/* RESET */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+/* TAG */
+
+
+/* CLASSI */
+
+/* ID */
+#logo-header{
+    width: 100px;
 }
