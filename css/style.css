@@ -15,3 +15,9 @@
 #logo-header{
     width: 100px;
 }
+
+#image-bg{
+    background-image: url(../img/jumbo.png);
+    background-size: 100%;
+    background-repeat: none;
+}
