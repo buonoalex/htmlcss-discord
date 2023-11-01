@@ -13,6 +13,13 @@
 
 .img-bg-main{
     background-image: url(../img/jumbo.png);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+}
+
+.btn-round{
+    border-radius: 50px;
 }
 
 
