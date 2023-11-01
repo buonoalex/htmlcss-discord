@@ -22,7 +22,27 @@
     border-radius: 50px;
 }
 
+.btn-primary{
+    background-color: rgb(136, 136, 246);
+    color: white;
+}
 
+.list-header{
+   list-style: none;
+   font-size: small;
+   color: white;
+}
+
+.list-header2{
+    list-style-image: url(../img/ita.png);
+}
+
+.img-bg-ad{
+    background-image: url(../img/stars.svg);
+    background-size: small;
+    background-repeat: none;
+    background-position: center;
+}
 /* ID */
 #logo-header{
     width: 100px;
