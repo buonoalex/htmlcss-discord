@@ -11,13 +11,13 @@
 
 /* CLASSI */
 
+.img-bg-main{
+    background-image: url(../img/jumbo.png);
+}
+
+
 /* ID */
 #logo-header{
     width: 100px;
 }
 
-#image-bg{
-    background-image: url(../img/jumbo.png);
-    background-size: 100%;
-    background-repeat: none;
-}
